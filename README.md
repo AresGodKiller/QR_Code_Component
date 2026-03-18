@@ -8,6 +8,8 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 ### 🧩 Vista previa del proyecto
 Componente QR responsivo y moderno desarrollado con Astro y Tailwind CSS. El diseño se adapta perfectamente a dispositivos móviles, tablets y pantallas de escritorio.
 
+![alt text](image.png)
+
 
 
 ---
