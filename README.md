@@ -66,7 +66,7 @@ En este proyecto reforcé y aprendí varios conceptos clave:
 - [Guía oficial de Tailwind CSS](https://tailwindcss.com/docs) — Referencia de clases utilitarias y configuración
 - [MDN Web Docs - HTML y CSS](https://developer.mozilla.org/es/) — Conceptos fundamentales de HTML semántico y CSS
 - [Guía de diseño responsivo](https://web.dev/responsive-web-design-basics/) — Mejores prácticas para diseño mobile-first
-- [QR Code API](https://qr-server.com/) — Servicio para generar códigos QR dinámicamente
+
 - [Frontend Mentor](https://www.frontendmentor.io/) — Desafíos de diseño y maquetación  
 
 ---
